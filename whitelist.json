@@ -11,7 +11,16 @@
     },
     {
       "id": "77596087968064",
-      "key": "GZS-GS9XZ-PAFHS-WKHMU-G1F58",
+      "key": "GZS-FAW2-FAVXZ-WKHMU-F2F58",
+      "webhooks": [
+        "https://discord.com/api/webhooks/1570050789328691331/Nilj46aovrqwRMOOGFhS6YbOpTuXduDTZsswXrhxS-mW-gM8gervwL7Vsf_pNbcMrOtb"
+      ],
+      "CRASH": false,
+      "Kick": true
+    },
+    {
+      "id": "94287191826628",
+      "key": "GZS-GS9XZ-PAFHS-WW2E-G1F58",
       "webhooks": [
         "https://discord.com/api/webhooks/1570050789328691331/Nilj46aovrqwRMOOGFhS6YbOpTuXduDTZsswXrhxS-mW-gM8gervwL7Vsf_pNbcMrOtb"
       ],
