@@ -15,7 +15,7 @@
       "webhooks": [
         "https://discord.com/api/webhooks/1570050789328691331/Nilj46aovrqwRMOOGFhS6YbOpTuXduDTZsswXrhxS-mW-gM8gervwL7Vsf_pNbcMrOtb"
       ],
-      "CRASH": true,
+      "CRASH": false,
       "Kick": true
     },
     {
@@ -24,7 +24,7 @@
       "webhooks": [
         "https://discord.com/api/webhooks/1574503341738823833/2nlcK4c1jTgH1D1GCmDqmH0SQWZTYXrn3gGwwGrXiQY2kgb7cWLO24xmKNKQVVweX53l"
       ],
-      "CRASH": true,
+      "CRASH": false,
       "Kick": true
     }
   ],
